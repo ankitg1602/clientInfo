@@ -1,0 +1,6 @@
+.border {
+    border: 1px solid black;
+    margin: 20px auto;
+    width: 1200px;
+    padding: 20px;
+}
